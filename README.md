@@ -25,7 +25,7 @@ Reading the logs:
 ---
 Iterations: 2200 - Accuracy: 0.8 (0.86)   
 
-   Number of     -    Last accuracy         
-   iterations    -  (Highest accuracy)   
+    Number of     -    Last accuracy         
+    iterations    -  (Highest accuracy)   
 
 Ps: All the algorithm was made by hand using only python libraries and jupyter notebook. No frameworks were used.
