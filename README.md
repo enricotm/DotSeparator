@@ -18,4 +18,11 @@ Log occurence (logOccurence) --> Set how many iterations it waits before updatin
 Show development graphs (show_graphs) --> Set if it shows the development graphs in every log update. (Not recommended)  
 Show colored regions map (show_map) --> Set if it shows the final colored region map. (Recommended)  
 
+Reading the logs:  
+---------------------------------------  
+Iterations: 2200 - Accuracy: 0.8 (0.86)  
+---------------------------------------  
+   Number of     -    Last accuracy         
+   iterations    -  (Highest accuracy)   
+
 Ps: All the algorithm was made by hand using only python libraries and jupyter notebook. No frameworks were used.
