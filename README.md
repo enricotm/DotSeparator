@@ -24,6 +24,7 @@ Reading the logs:
 
 Iterations: *Number of iterations* - Accuracy: *Last accuracy* (*Highest accuracy*)
 
-Ps: All the algorithm was made by hand using only python libraries and jupyter notebook. No frameworks were used.
+Ps: All the algorithm was made by hand using only python libraries and jupyter notebook. No frameworks were used. 
+
 -------------------- by enricotm --------------------
 ---
