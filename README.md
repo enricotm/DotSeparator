@@ -24,7 +24,7 @@ Show colored regions map (show_map) --> Set if it shows the final colored region
 Reading the logs:  
 ---
 Iterations: 2200 - Accuracy: 0.8 (0.86)   
-- - 
+
    Number of     -    Last accuracy         
    iterations    -  (Highest accuracy)   
 
