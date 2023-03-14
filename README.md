@@ -10,13 +10,13 @@ Using machine learning concepts, it creates a map of colored regions that makes 
 Mutable inputs (variable name):  
 ---
 Number of points (points) --> The amount of points that are created.  
-Amount of hidden layers (layers) --> How many hidden layers it uses for the ML algorithm.  
-Size of the hidden layers (layers) --> How many knots there are in each hidden layer.  
-Minimum iterations (minIters) --> Set the minimum iterations before it accounts for error margin.  
-Error margin (errorMargin) --> Set the error margin after it reaches the minimum iterations.  
 Log occurence (logOccurence) --> Set how many iterations it waits before updating the log.  
-Show development graphs (show_graphs) --> Set if it shows the development graphs in every log update. (Not recommended)  
-Show colored regions map (show_map) --> Set if it shows the final colored region map. (Recommended)  
+Error margin (errorMargin) --> Set the error margin after it reaches the minimum iterations.  
+Minimum iterations (minIters) --> Set the minimum iterations before it accounts for error margin.  
+Axis limit (map_axis) --> Set the limit/size of your graphs when showing on the log.  
+Show development graphs (show_graphs) --> Set if it shows the development graphs in every log update. (Recommended)  
+Amount of hidden layers (layers) --> How many hidden layers it uses for the ML algorithm.  
+Size of the hidden layers (layers) --> How many knots there are in each hidden layer.
 
 Reading the logs:  
 ---
